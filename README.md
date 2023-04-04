@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+
+
+<div id="header" align="center">
+  <img src="https://tenor.com/ru/view/busy-cute-bear-working-laptop-gif-17802265.gif" width="100"/>
+</div>
+
+
+
 <!--
 **TatyaG/TatyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
