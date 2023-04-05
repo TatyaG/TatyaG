@@ -3,7 +3,7 @@
   <img src="https://tenor.com/ru/view/busy-cute-bear-working-laptop-gif-17802265.gif" width="100"/>
 </div>
 
-<h1 align="center">Hi there, I'm Tatya</h1>
+<h1 align="center">Hi there, I'm Tatevik</h1>
 
 <!--
 **TatyaG/TatyaG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
