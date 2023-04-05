@@ -23,9 +23,19 @@ Here are some ideas to get you started:
 
 ### About Me:
 
-- I am a beginner frontend developer :raising_hand:
+Hello, I'm a beginner front-end developer :raising_hand:
 
-### Languages and Tools:
+### My skills:
+
+- HTML, CSS, Flexbox, Grid, JS, Bootstrap, Git, Figma;
+- Adaptive and cross-browser layout;
+- Clean and valid code;
+- BEM methodology;
+- Pixel Perfect
+
+
+
+### Technology stack:
 <img src="https://user-images.githubusercontent.com/110471576/229918375-071dafd2-4295-497e-ab88-19a3d1806cd6.png" width="40" height="40" alt="html">&nbsp;
 <img src="https://user-images.githubusercontent.com/110471576/229919661-a008c8c8-303a-47f2-9c7f-84e016ef844c.png" width="40" height="40" alt="css">&nbsp;
 <img src="https://user-images.githubusercontent.com/110471576/229922532-bd16c7f7-7e81-4d0a-b087-5ec204ab0446.png" width="40" height="40" alt="js">&nbsp;
