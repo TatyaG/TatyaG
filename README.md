@@ -27,7 +27,7 @@ Hello, I'm a beginner front-end developer :raising_hand:
 
 ### My skills:
 
-- HTML, CSS, Flexbox, Grid, JS, Bootstrap, Git, Figma;
+- HTML, CSS, Flexbox, Grid, JS, Vue, Bootstrap, Git, Figma;
 - Adaptive and cross-browser layout;
 - Clean and valid code;
 - BEM methodology;
